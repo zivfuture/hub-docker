@@ -1,1 +1,1 @@
-FROM debian:stable-20241016
+FROM debian:bullseye-20241016
